@@ -30,7 +30,7 @@ powershell -c "irm bun.sh/install.ps1 | iex"
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/eip7702-clean-delegation.git
+git clone https://github.com/codeesura/eip7702-clean-delegation.git
 cd eip7702-clean-delegation
 
 # Install dependencies
