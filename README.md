@@ -152,4 +152,4 @@ Operation completed successfully!
 
 ## License
 
-MIT
+[MIT](LICENSE)
